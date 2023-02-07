@@ -1,4 +1,5 @@
 # Classic Snake Game
+![classic-snake-game-resized](https://user-images.githubusercontent.com/81917570/217284084-0b4daf92-6967-4e2c-af1e-d3815bb9cb45.gif)
 
 ## Inspiration
 Remember the good old days of smashing the buttons on your feature phones? Well, relive them again this day with this classic snake game!
